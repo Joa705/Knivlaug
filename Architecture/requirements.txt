@@ -15,6 +15,7 @@ This file describes the requirements for this project
 - The system should have a calender structure where blogs are displayed. Blogs are typically text and images describing what a users did that day (28.10.23)
 - Authenticated users should be able to post blogs and edit or delete their own blogs (28.10.23)
 - Users should be able to view blogs (28.10.23)
-- The system should have an information page, describing what the knivlaug organization is about (28.10.23)
+- The system should have an information page, describing what the Knivlaug organization is about (28.10.23)
+- The Blog page should have two different views. 1st view showing a calender and minor details, maybe just the number of blogs on each date. 2 view should be a scroll view show every date and every blog under each date (28.10.23)
 
 
