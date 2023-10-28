@@ -1,0 +1,20 @@
+This file describes the requirements for this project
+
+
+
+## System Requirements
+
+- The system should have a database to store metadata (28.10.23)
+- The system should have some integration with Azure, like Azure Devops, Blob Storage, Active Directory. Maybe more.. (28.10.23)
+
+
+## Functional Requirements
+
+- The system should have an authentication mechanism that allows users to login and login (28.10.23) 
+- The system should be able to store objects like image and audio files, using for example Azure blob storage (28.10.23) 
+- The system should have a calender structure where blogs are displayed. Blogs are typically text and images describing what a users did that day (28.10.23)
+- Authenticated users should be able to post blogs and edit or delete their own blogs (28.10.23)
+- Users should be able to view blogs (28.10.23)
+- The system should have an information page, describing what the knivlaug organization is about (28.10.23)
+
+
